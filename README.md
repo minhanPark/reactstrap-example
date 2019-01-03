@@ -1,3 +1,0 @@
-# reactstrap-example
-
-reactstrap-example
